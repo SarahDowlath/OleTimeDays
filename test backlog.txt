@@ -1,0 +1,17 @@
+As a new user, I want to be able to create a login and a profile.
+
+As a user, I want to be able to login and start a new game. 
+
+AS a user,I want to have the option to select a level for my game. 
+
+As a user, I want to be able to pause and continue the game when desired.
+
+As a user, I would like to be able to select the category or theme for my game. 
+
+As a user, I would like to be able to invite others to play or advertise this game to friends. 
+
+As a game admin, I would like to be able to push out regular updates to the game.
+
+As a game admin, I want to get brief feedback from users of their experience.
+
+ 
