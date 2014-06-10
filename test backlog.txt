@@ -14,4 +14,6 @@ As a game admin, I would like to be able to push out regular updates to the game
 
 As a game admin, I want to get brief feedback from users of their experience.
 
+As a game designer, I want to reward game users for attaining to each levels. 
+
  
