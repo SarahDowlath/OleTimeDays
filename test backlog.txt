@@ -1,19 +1,15 @@
-As a new user, I want to be able to create a login and a profile.
+As a new user, I want to be able to create an account which will allow me to register to the game.
 
-As a user, I want to be able to login and start a new game. 
-
-AS a user,I want to have the option to select a level for my game. 
-
-As a user, I want to be able to pause and continue the game when desired.
-
-As a user, I would like to be able to select the category or theme for my game. 
-
-As a user, I would like to be able to invite others to play or advertise this game to friends. 
+As a user, I want to be able to start a new game. (select level, category) 
+ 
+As a user, I want to be able to pause and continue the game when desired. 
 
 As a game admin, I would like to be able to push out regular updates to the game.
 
 As a game admin, I want to get brief feedback from users of their experience.
 
 As a game designer, I want to reward game users for attaining to each levels. 
+
+As a game designer, I want to be able to create challenges to test memory skills by questioning the user based on historical events in Trinidad and Tobago.
 
  
